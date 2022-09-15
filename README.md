@@ -28,6 +28,9 @@ To better accompany the victims through the flood in Malaysia, an app called Tor
 Agile will be the methodology used in this project since it will offer increased flexibility. Due to time constraints from study and work responsibilities, dividing the project in short phases that will be both manageable and flexible will allow the team to make the changes needed. Rather than following a rigid plan, Agile allows us to continuously improve the project in all phases. To realize the project laptops using intel processors will be used
 
 ### Expected Outcome of the Project
+
+![image](https://user-images.githubusercontent.com/110244583/190444075-1858e8f9-2aa6-4774-ba8d-86af495a0088.png)
+
 App Prototype: [link](https://www.figma.com/proto/xSrz2cxy06v1sKBMgyS0zI/TRAPP-UI?page-id=0%3A1&node-id=32%3A36&viewport=2653%2C535%2C0.4&scaling=scale-down&starting-point-node-id=32%3A36)
 
 Final Note: trapp.zip constains the source codes for the app.
